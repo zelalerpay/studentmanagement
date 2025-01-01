@@ -1,0 +1,5 @@
+CENG1234;Data structure;Mark Twain;2
+CENG2345;Programming Languages;Mark Lutz;8
+CENG6789;Machine Learning;John Wick;0
+CENG5278;Programming Fundamentals;Barış Süzek;0
+CENG7548;MATEMATİK;ELVAN ÇUHADAR;78
